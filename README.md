@@ -2,7 +2,7 @@
 
 Pose Estimation of a robot using AI techniques
 
-Welcome to the my Master Project at INDIAN INSTITUTE OF TECHNOLOGY-(IIT BOMBAY)/Aerospace Engineering Department/Dynamics and Control.
+Welcome to the my Master's Project at INDIAN INSTITUTE OF TECHNOLOGY-(IIT BOMBAY)/Aerospace Engineering Department/Dynamics and Control.
 
 Guide
 
